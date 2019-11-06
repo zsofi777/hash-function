@@ -1,7 +1,6 @@
 ## Hashing
 
->A hash function (or hashing) is where a computer takes an input of any length and content (e.g. letters, numbers, symbols)   
-and uses a mathematical formula to chop it, mix it up, and produce an output of a specific length.   
+>A hash function (or hashing) is where a computer takes an input of any length and content (e.g. letters, numbers, symbols) and uses a mathematical formula to chop it, mix it up, and produce an output of a specific length.   
 >
 >It is one way to enable security during the process of message transmission when the message is intended for a particular recipient only.  
 
